@@ -1,0 +1,21 @@
+{
+  "title": ".auth__title",
+  "email": ":nth-child(1) > .auth__input",
+  "password": "#password",
+  "login_button": ".auth__button",
+  "forgot_pass_btn": ".auth__restore",
+  "register_btn": ".auth__form > .auth__text",
+  "show_pass_btn": ".auth__input-icon",
+  "header_lavka": ".header__btns > [href='/shop']",
+  "oplata_price": ".payment__info-text-new",
+  "oplata_card_number": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+  "oplata_card_date": ":nth-child(1) > .pay_base-input-v2",
+  "oplata_card_cvv": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+  "oplata_card_name": ".pay__input-box-last-of > .pay_base-input-v2",
+  "oplata_buy_btn": ".pay-btn",
+  "oplata_sms_code": "#cardnumber",
+  "oplata_sms_send": ".payment__submit-button",
+  "oplata_accepted_title": ".payment__font-for-success",
+  "oplata_declined_text": ".textmaun",
+  "oplata_back_to_shop": ".payment__adv"
+}
